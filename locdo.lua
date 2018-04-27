@@ -1,4 +1,4 @@
-szVulanLib = system.GetScriptFolder().."\\LIB\\chung.luac"
+szVulanLib = system.GetScriptFolder().."\\LIB\\chung.lua"
 IncludeFile(szVulanLib)
 
 --Script Chuyen vat pham
